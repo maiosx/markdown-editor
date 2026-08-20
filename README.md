@@ -2,15 +2,17 @@
 A simple markdown editor for Windows with a pinnable widget view, and an autostart option.
 
 
-#Installation
+Installation
+
 Install Python
-Open Powershell and run the following command for the dependency
+
+Open Powershell and run the following command for the required dependency
 
 pip install PyQt6
 
 Place the file in C:\Users\YOURUSERNAME
 
-Run Powershell and start with 
+Run Powershell and start with: 
 
 python markdown_editor.py
 
